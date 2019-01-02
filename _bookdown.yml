@@ -1,6 +1,6 @@
 book_filename: "BH5003-module-guidebook"
 chapter_name: "Chapter "
-repo: https://github.com/profgaelle/BH5003-module-guide-book
+repo: https://github.com/profgaelle/BH5003-module-guidebook
 output_dir: docs
 rmd_files: ["index.Rmd"]
 clean: [packages.bib, bookdown.bbl]
