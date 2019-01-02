@@ -1,11 +1,11 @@
 bookdown::gitbook:
   css: style.css
-  split_by: chapter
+  split_by: section
   config:
     toc:
       collapse: subsection
       before: |
-        <li><a href="./">A Minimal Bookdown Book</a></li>
+        <li><a href="./">BH5003 Module Guide 2018-19</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 bookdown::pdf_book:
