@@ -1,7 +1,7 @@
 --- 
 title: "BH5003 Research Placement"
 author: "Gaëlle Vallée-Tourangeau"
-date: "2019-01-03"
+date: "2019-01-10"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -14,9 +14,11 @@ description: "2018-19 Guidebook for the module BH5003 Research Placement at King
 
 # Module Guide 2018-19 {-}
 
-<img src="img/KBSlogo.png" width="175" />
 
-<img src="img/cover-pic.jpg" width="80%" />
+\includegraphics[width=2.43in]{img/KBSlogo} 
+
+
+\includegraphics[width=0.8\linewidth]{img/cover-pic} 
 
 ## Contact details {-}
 
