@@ -1,7 +1,7 @@
 --- 
 title: "BH5003 Research Placement"
 author: "Gaëlle Vallée-Tourangeau"
-date: "2019-01-10"
+date: "2019-01-15"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -14,11 +14,9 @@ description: "2018-19 Guidebook for the module BH5003 Research Placement at King
 
 # Module Guide 2018-19 {-}
 
+<img src="img/KBSlogo.png" width="88" />
 
-\includegraphics[width=2.43in]{img/KBSlogo} 
-
-
-\includegraphics[width=0.8\linewidth]{img/cover-pic} 
+<img src="img/cover-pic.jpg" width="80%" />
 
 ## Contact details {-}
 
@@ -116,11 +114,11 @@ Ryan, B., Scapens, Robert W., & Theobald, Michael. (2002). Research method and m
 
 |	Week	|	Date	|	Title	|	Required Weekly Reading	|
 |	---	|	---	|	---	|	---	|
-|	24	|	07-Jan-19	|	Introduction to the module	|	L&O: Chapter 1	|
-|	25	|	14-Jan-19	|	The research assistant role	|	L&O: Chapter 1	|
-|	26	|	21-Jan-19	|	Specifying the research problem	|	L&O: Chapter 2	|
-|	27	|	28-Jan-19	|	Searching the literature	|	L&O: Chapter 3	|
-|	28	|	04-Feb-19	|	Reviewing the literature	|	L&O: Chapter 3	|
+|	24	|	07-Jan-19	|	Introduction to the module I	|	L&O: Chapter 1	|
+|	25	|	14-Jan-19	|	Introduction to the module II	|	L&O: Chapter 1	|
+|	26	|	21-Jan-19	|	The research assistant role	|	L&O: Chapter 1	|
+|	27	|	28-Jan-19	|	Specifying the research problem	|	L&O: Chapter 2	|
+|	28	|	04-Feb-19	|	Searching and reviewing the literature	|	L&O: Chapter 3	|
 |	29	|	11-Feb-19	|	Enrichment Activity Week	|		|
 |	30	|	18-Feb-19	|	Research planning	|	L&O: Chapter 4	|
 |	31	|	25-Feb-19	|	Data management	|	ERC (2018)  	|
