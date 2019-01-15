@@ -14,7 +14,7 @@ description: "2018-19 Guidebook for the module BH5003 Research Placement at King
 
 # Module Guide 2018-19 {-}
 
-<img src="img/KBSlogo.png" width="88" />
+<img src="img/KBSlogo.png" width="175" />
 
 <img src="img/cover-pic.jpg" width="80%" />
 
